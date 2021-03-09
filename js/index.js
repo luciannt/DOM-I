@@ -59,3 +59,8 @@ middleImg.setAttribute("src", "../img/mid-page-accent.jpg");
 let btn = document.querySelector("button");
 
 btn.textContent = "Get Started";
+
+//navbar
+let navBar = document.querySelector("nav");
+
+navBar.appendChild();
